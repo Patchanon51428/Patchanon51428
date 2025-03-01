@@ -47,36 +47,36 @@
 
 ## My Projects 📚
 #### First School Project <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;For my first project in school, we were tasked with creating a single web page that included a frontend (HTML and CSS), a backend (JavaScript), and a database (MongoDB). <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;For my first project in school, I were tasked with creating a single web page that included a frontend (HTML and CSS), a backend (JavaScript), and a database (MongoDB). <br/>
 The website had to serve a practical purpose while implementing complete CRUD operations using REST APIs. <br/>
 [more detail](https://drive.google.com/file/d/1ZjbFgP3axsKMnUWUdGFFnyub4lTqUiQr/view)
 
 
 #### Game Development Project <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;As a group of three, we developed a Java-based game using Object-Oriented Programming (OOP) principles. We designed and documented UML diagrams for every class. <br/>
-The game's user interface was created with JavaFX, and we added animations using Java GUI components. Finally, we packaged the project into a JAR file for deployment. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;As a group of three, I developed a Java-based game using Object-Oriented Programming (OOP) principles. We designed and documented UML diagrams for every class. <br/>
+The game's user interface was created with JavaFX, and I added animations using Java GUI components. Finally, I packaged the project into a JAR file for deployment. <br/>
 [youtube](https://www.youtube.com/watch?v=5aG1f_h3Pus)
 
 #### Software Engineering Project <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;In a team of nine members, we worked on a hotel reservation website as part of a software engineering project. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;In a team of nine members, I worked on a hotel reservation website as part of a software engineering project. <br/>
 The project spanned two sprints, each lasting two weeks, and involved all phases of software development.<br/>
-In the first sprint, we added features such as hotel ratings and user comment sections.
+In the first sprint, I added features such as hotel ratings and user comment sections.
 In the second sprint, we implemented payment functionality, including PromPay QR, credit cards, and debit cards.<br/>
-We managed tasks using man-hour estimates and story points. At the end of the project, we created test cases using Jest for unit testing and Cypress for end-to-end testing.<br/>
-We containerized the application with Docker and deployed it on Vercel. <br/>
+We managed tasks using man-hour estimates and story points. At the end of the project, I created test cases using Jest for unit testing and Cypress for end-to-end testing.<br/>
+I containerized the application with Docker and deployed it on Vercel. <br/>
 [website](https://kodjenggg-hotelbooking.vercel.app/hotels)
 
 
 #### Embedded System Project <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;In a group of four, we developed an embedded system project focused on building a machine with two sensor nodes and two gateway platforms. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;In a group of four, I developed an embedded system project focused on building a machine with two sensor nodes and two gateway platforms. <br/>
 The microcontroller controlled the sensors and sent logs to a Firebase database.<br/>
-Additionally, we built a single-page mobile-friendly website for remotely controlling the machine. <br/>
+Additionally, I built a single-page mobile-friendly website for remotely controlling the machine. <br/>
 The microcontroller programming was done in C for an Arduino motherboard, while the mobile app was built using HTML, CSS, and JavaScript. <br/>
 [youtube](https://youtu.be/2ag8X0ojBkU?si=GOjZ5Y1LY5LSfXmW)
      
 ##### Data Science and Data Engineering Project <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;In our latest project, a team of five implemented AI/ML techniques for literature data. The goal was to build a search engine using Streamlit to find matching or related literature.
-We started with raw data provided by a professor and collected additional data using Beautiful Soup and APIs.
+I started with raw data provided by a professor and collected additional data using Beautiful Soup and APIs.
 The data was cleaned and prepared using pandas.<br/>
-Finally, we integrated a pre-trained search engine model from GitHub and visualized the results through Streamlit. <br/>
+Finally, I integrated a pre-trained search engine model from GitHub and visualized the results through Streamlit. <br/>
 [youtube](https://m.youtube.com/watch?si=BBD8u3Lw5YKaGsXI&v=4rhpMti2ESw&feature=youtu.be)
