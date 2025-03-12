@@ -74,7 +74,7 @@ Additionally, I built a single-page mobile-friendly website for remotely control
 The microcontroller programming was done in C for an Arduino motherboard, while the mobile app was built using HTML, CSS, and JavaScript. <br/>
 [youtube](https://youtu.be/2ag8X0ojBkU?si=GOjZ5Y1LY5LSfXmW)
      
-##### Data Science and Data Engineering Project <br/>
+#### Data Science and Data Engineering Project <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;In our latest project, a team of five implemented AI/ML techniques for literature data. The goal was to build a search engine using Streamlit to find matching or related literature.
 I started with raw data provided by a professor and collected additional data using Beautiful Soup and APIs.
 The data was cleaned and prepared using pandas.<br/>
