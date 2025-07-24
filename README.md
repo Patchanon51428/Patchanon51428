@@ -2,7 +2,7 @@
 
 🎓 A student sharing my journey and learnings in tech <br/>
 🌱 Currently studying Computer Engineering: Digital and Technology at Chulalongkorn University, Thailand <br/>
-⚡ Aspiring Data Scientist and Data Engineer, actively seeking opportunities <br/>
+⚡ Aspiring Cyber Security and Data Engineer, actively seeking opportunities <br/>
 
 ##### Coding Languages 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -80,3 +80,10 @@ I started with raw data provided by a professor and collected additional data us
 The data was cleaned and prepared using pandas.<br/>
 Finally, I integrated a pre-trained search engine model from GitHub and visualized the results through Streamlit. <br/>
 [youtube](https://m.youtube.com/watch?si=BBD8u3Lw5YKaGsXI&v=4rhpMti2ESw&feature=youtu.be)
+
+## Certification 📚
+#### Huawei HCCDA 
+   Entry-level certification in Huawei’s Datacom track (networking), focused on advanced enterprise network technologies.
+
+#### ISC² CC
+   Beginner-level cybersecurity certification from ISC², designed for newcomers to the field.
