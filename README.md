@@ -83,7 +83,7 @@ Finally, I integrated a pre-trained search engine model from GitHub and visualiz
 
 ## Certification 📚
 #### Huawei HCCDA 
-   Entry-level certification in Huawei’s Datacom track (networking), focused on advanced enterprise network technologies.
+&nbsp;&nbsp;&nbsp;&nbsp;Entry-level cloud developer certification from Huawei focusing on Cloud computing and development using Huawei Cloud services.
 
 #### ISC² CC
-   Beginner-level cybersecurity certification from ISC², designed for newcomers to the field.
+&nbsp;&nbsp;&nbsp;&nbsp;Entry-level cybersecurity certification from ISC², designed for newcomers to the field.
