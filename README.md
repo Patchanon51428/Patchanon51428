@@ -12,13 +12,22 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-##### Data Base 
+##### Database 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+##### Backend development
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ##### Frameworks 
-
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -38,6 +47,15 @@
 ##### Data-Visualization 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+##### Cloud
+[Huawei-Cloud]
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+##### Pentesting tools
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
 
 ##### Other Tech Stacks 
@@ -63,7 +81,7 @@ The project spanned two sprints, each lasting two weeks, and involved all phases
 In the first sprint, I added features such as hotel ratings and user comment sections.
 In the second sprint, we implemented payment functionality, including PromPay QR, credit cards, and debit cards.<br/>
 We managed tasks using man-hour estimates and story points. At the end of the project, I created test cases using Jest for unit testing and Cypress for end-to-end testing.<br/>
-I containerized the application with Docker and deployed it on Vercel. <br/>
+I containerized the application with Docker and then handed to deployment team to deploy it on Vercel. <br/>
 [website](https://kodjenggg-hotelbooking.vercel.app/hotels)
 
 
@@ -80,6 +98,11 @@ I started with raw data provided by a professor and collected additional data us
 The data was cleaned and prepared using pandas.<br/>
 Finally, I integrated a pre-trained search engine model from GitHub and visualized the results through Streamlit. <br/>
 [youtube](https://m.youtube.com/watch?si=BBD8u3Lw5YKaGsXI&v=4rhpMti2ESw&feature=youtu.be)
+
+#### Huawei course project pitching <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; This is the term project of the Huawei course at Chulalongkorn University about Huawei Cloud. It is a group project of five members aiming to solve problems in any field. We decided to focus on agricultural issues. We identified that farmers currently face price fraud because the official prices announced by the ministry cannot effectively reach them. To address this, we developed a system that scrapes price data from the ministry’s website and agricultural cooperatives that announce daily prices. The data is then visualized in our app using graphs similar to stock charts. We also plan to integrate AI to predict future prices based on statistics and news trends. My main responsibility was backend development using Node.js and Prisma ORM with PostgreSQL. I started by designing the ER diagram, mapping it to the schema diagram, and then implementing the router, CRUD operations, and middleware. <br/>
+[presentation slide](https://www.canva.com/design/DAG2TKhIoBU/7-p_PWtMX980TEL_CPByuQ/edit?utm_content=DAG2TKhIoBU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br/>
+[prototype](https://drive.google.com/file/d/13nMe2tqRw2dsquIPqz4jdqsQ6EPYxLeJ/view)
 
 ## Certification 📚
 #### Huawei HCCDA 
