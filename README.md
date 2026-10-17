@@ -1,8 +1,8 @@
 ### Hello, I'm Dollar! 👋
 
-🎓 A student sharing my journey and learnings in tech <br/>
-🌱 Currently studying Computer Engineering: Digital and Technology at Chulalongkorn University, Thailand <br/>
-⚡ Aspiring Cyber Security and Data Engineer, actively seeking opportunities <br/>
+A student sharing my journey and learnings in tech <br/>
+Currently studying Computer Engineering: Digital and Technology at Chulalongkorn University, Thailand <br/>
+Aspiring Cyber Security and Software Engineer, actively seeking opportunities <br/>
 
 ##### Coding Languages 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -100,9 +100,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp; This project was part of a company-sponsored course by Vbeyond, with teams of nine members. I took the lead based on my prior internship experience at KKP. The project required developing solutions for three departments: HR, Business Development, and Sales. For each department, we built one Power App (frontend), one Power Automate flow (backend), one SharePoint List (database), and one Power BI dashboard (visualization). I coordinated the overall development, ensured task completion across all components, and supported teammates who were new to low-code platforms. I also delivered the final presentation for the project. <br/>
 [presentation slide](https://www.canva.com/design/DAG3U0dV8HQ/-l5R_0NfoIpHSetALcujgA/edit?utm_content=DAG3U0dV8HQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <br/>
 
-#### Capstone (Ongoing project) <br/>
+#### Capstone <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; The goal of the project is to build a lawyer search platform to reduce the justice gap in Thailand and support early-career lawyers. I play as the backend team lead. The main technologies used are Express with TypeScript and Prisma ORM. The system uses both MongoDB (NoSQL) and PostgreSQL (SQL), chosen based on different use cases and data requirements. In the previous semester, I focused on system design in preparation for deployment on AWS and implemented REST APIs for all core resources. Currently, I am studying and developing security features due to the sensitive nature of legal data. In the next semester, I will take on the role of penetration tester alongside backend development. <br/>
 
+#### DWVA Mini-Project (Computer Security Course) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; This project was an individual penetration testing assignment on Damn Vulnerable Web Application (DVWA), performed in a Kali Linux environment with full authorization. I tested and exploited 12 vulnerability classes, including Brute Force, Command Injection, CSRF, Remote File Inclusion, File Upload, SQL Injection, Weak Session IDs, DOM/Reflected/Stored XSS, Open HTTP Redirect, and Authorization Bypass. For each vulnerability, I used tools such as Burp Suite (Intruder, Repeater, proxy interception) and Metasploit wordlists to prove exploitability, achieving outcomes such as full admin account takeover, remote code execution via reverse shell, and database extraction via SQL injection. I documented each finding with a risk score, business impact, and remediation code (prepared statements, input whitelisting, output encoding, secure session handling). <br/>
+
+#### To The Other Me (Being Human in the Age of AI — Course Project) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; This project’s brief was to design any technology that helps lost new graduates find themselves. I started by gathering requirements through interviews with friends from other faculties and universities, and found that many of them were studying in fields that didn’t match their childhood dreams. The key insight was that no one understands you better than yourself, so I helped build a dialogue-based website that guides users through self-reflection, ending with an AI-generated flower that represents their answers. Users can then write a letter to their future self 5 years ahead, which gets emailed to them when the time comes. The website backend was built in Golang, with email delivery handled through Sender. <br/>
 
 ## Certification 📚
 #### Huawei HCCDA 
